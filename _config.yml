@@ -1,0 +1,28 @@
+name: Relevant Ventures
+favicon: null
+layout_spectrum: 0.8188395909965038
+typography_spectrum: 0.730267446488142
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.725205079652369
+  lightness: 0.6374651482328773
+  saturation: 0.44415203621611
+  rhythmicContrast: 0.9758211586158723
+purpose: []
