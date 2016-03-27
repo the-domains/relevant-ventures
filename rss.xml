@@ -4,8 +4,15 @@
         <description><![CDATA[Relevant Ventures]]></description>
         <link>http://relevant.ventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 17:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 17:45:19 GMT</lastBuildDate>
         <atom:link href="http://relevant.ventures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=ZRuSS0iiFyo</p>]]></description>
+            <link>http://relevant.ventures/40789c20-070e-4a80-8134-076fdffdd9e9/index.html</link>
+            <guid isPermaLink="false">40789c20-070e-4a80-8134-076fdffdd9e9</guid>
+            <pubDate>Sun, 27 Mar 2016 17:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://twitter.com/joerogan/status/713386097175232512</p>]]></description>
